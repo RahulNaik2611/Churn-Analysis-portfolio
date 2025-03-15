@@ -55,6 +55,12 @@ Using Power BI, data is visualized to provide insights and support decision-maki
 - **Data Modeling**: Relationships between different tables are established to create a coherent data model.
 - **Data Visualization**: Various charts and dashboards are created to represent the data visually, making it easier to interpret and analyze.
 
+- ## License
+
+This project is licensed under the [MIT License](link-to-license).
+
+Thank you for visiting our repository! We hope you find this project valuable and informative.
+
 ## About Me
 
 My name is **B Rahul Naik**, and I am very interested in data projects. I completed my B.Tech in Mechanical Engineering in 2022, and since then, I have developed a keen interest in computer science and technology. My skill set includes:
