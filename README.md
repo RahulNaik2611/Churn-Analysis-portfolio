@@ -55,6 +55,29 @@ Using Power BI, data is visualized to provide insights and support decision-maki
 - **Data Modeling**: Relationships between different tables are established to create a coherent data model.
 - **Data Visualization**: Various charts and dashboards are created to represent the data visually, making it easier to interpret and analyze.
 
+- # Churn Analysis Dashboard
+
+
+
+The Churn Analysis Dashboard provides insights into customer retention and churn rates. This dashboard is designed to help businesses understand the factors contributing to customer churn and to identify opportunities for improving customer retention strategies.
+
+## Features
+
+- **Churn Rate Visualization**: Displays the overall churn rate over time.
+- **Customer Segmentation**: Analyzes churn by different customer segments (e.g., age, location, subscription type).
+- **Predictive Analytics**: Utilizes machine learning models to predict potential churn based on historical data.
+- **Key Metrics**: Provides key performance indicators (KPIs) related to customer retention, such as average tenure, customer lifetime value (CLV), and more.
+
+
+
+## Screenshots
+
+Here are some screenshots of the Churn Analysis Dashboard:
+
+*Predictive Churn Model Results*
+
+
+
 - ## License
 
 This project is licensed under the [MIT License](link-to-license).
