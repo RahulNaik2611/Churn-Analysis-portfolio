@@ -75,7 +75,7 @@ The Churn Analysis Dashboard provides insights into customer retention and churn
 Here are some screenshots of the Churn Analysis Dashboard:
 
 *Predictive Churn Model Results*
-
+![image alt](https://github.com/RahulNaik2611/Churn-Analysis-portfolio/blob/3a55c99ec44997324884b28b36d86ee53e5607c1/power%20bi/Screenshot%202025-03-16%20064315.png)
 
 
 - ## License
