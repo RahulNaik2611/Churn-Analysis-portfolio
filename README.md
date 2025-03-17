@@ -69,7 +69,7 @@ The Churn Analysis Dashboard provides insights into customer retention and churn
 - **Key Metrics**: Provides key performance indicators (KPIs) related to customer retention, such as average tenure, customer lifetime value (CLV), and more.
 - 
 
-# Random Forest Prediction Project
+#python implemention (Random Forest module)
 
 ## Overview
 
@@ -80,7 +80,7 @@ This project implements a predictive model using the Random Forest algorithm to 
 - Python 3.x
 - pandas
 - numpy
-- scikit-learn
+
 
 ## Dataset
 
