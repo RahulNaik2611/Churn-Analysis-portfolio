@@ -78,7 +78,7 @@ Here are some screenshots of the Churn Analysis Dashboard:
 ![image alt]()
 
 
-![image alt]()
+![image alt](https://github.com/RahulNaik2611/Churn-Analysis-portfolio/blob/9d4426520ad9b56f5e1c9728ebd92fbabe4a29bc/power%20bi/Churn%20Analysis.png)
 
 
 - ## License
