@@ -149,16 +149,14 @@ This project is licensed under the [MIT License](link-to-license).
 
 Thank you for visiting our repository! We hope you find this project valuable and informative.
 
-## About Me
+## 👨‍💻 About Me  
 
-My name is **B Rahul Naik**, and I am very interested in data projects. I completed my B.Tech in Mechanical Engineering in 2022, and since then, I have developed a keen interest in computer science and technology. My skill set includes:
+Hello! I’m **B Rahul Naik**, a passionate data enthusiast with a strong interest in technology-driven solutions. I completed my **B.Tech in Mechanical Engineering (2022)**, and since then, I have been actively expanding my expertise in **data analytics, software development, and database management**.  
 
-- Java
-- Spring Boot
-- Python
-- SQL
-- MongoDB
-- PostgreSQL
-- Microsoft SQL Server
-- Power BI
-- Excel
+### 🔹 Technical Skills:  
+- **Programming & Backend Development:** Java, Spring Boot, Python  
+- **Databases & SQL:** SQL, MongoDB, PostgreSQL, Microsoft SQL Server  
+- **Data Analytics & Visualization:** Power BI, Excel  
+
+I enjoy working on **data-driven projects** and leveraging technology to create meaningful insights. Feel free to explore my work and connect with me! 🚀  
+
